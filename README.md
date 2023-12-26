@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hide0621&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hide0621&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hide0621&theme=gruvbox)
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hide0621&theme=gruvbox)
+-->
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hide0621&theme=gruvbox&utcOffset=9)
+-->
 
 <!--
 ## Trophy
