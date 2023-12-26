@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hide0621&theme=gruvbox&utcOffset=9)
 -->
 
-<!--
+
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=hide0621&theme=gruvbox)
--->
+
 
