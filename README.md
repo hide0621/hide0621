@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Certification
+
+![PCAバッジ](https://github.com/hide0621/hide0621/assets/96705805/377ea295-3e46-4a86-86e0-4b5643181209)
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hide0621&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hide0621&theme=gruvbox)
