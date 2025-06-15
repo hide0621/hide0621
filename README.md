@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![PCAバッジ](https://github.com/hide0621/hide0621/assets/96705805/377ea295-3e46-4a86-86e0-4b5643181209)
 -->
 
-![PCAバッジ](https://github.com/hide0621/hide0621/assets/96705805/0a378aa9-eefb-46ce-b364-da58bf6d9435)　![LinuxEssentials-IconSize](https://github.com/hide0621/hide0621/assets/96705805/7e6b99be-d21c-425c-8cee-db4592257af6)
+![PCAバッジ](https://github.com/hide0621/hide0621/assets/96705805/0a378aa9-eefb-46ce-b364-da58bf6d9435)　![LinuxEssentials-IconSize](https://github.com/hide0621/hide0621/assets/96705805/7e6b99be-d21c-425c-8cee-db4592257af6) ![jstqb_fl](https://github.com/user-attachments/assets/0c1b79fb-7151-43b7-ae94-249eb86822b4)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hide0621&theme=gruvbox)
